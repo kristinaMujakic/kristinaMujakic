@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**kristinaMujakic/kristinaMujakic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kristina Mujakic.
 
-Here are some ideas to get you started:
+  Aspiring software developer with a passion for creativity and collaboration within the tech community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **A bit about me:**
+
+- 🔭 I’m currently working on improving my skills in web development.
+- 🌱 I’m learning JavaScript, NodeJS, ExpressJS, ReactJS, Python and PostgreSQL.
+- 👯 I’m looking to collaborate on exciting projects and opportunities.
+
+📫 **Reach out:**
+
+- Email: [kmujakic@gmail.com](mailto:kmujakic@gmail.com)
+- [Let's connect on LinkedIn](https://www.linkedin.com/in/kristinamujakic/)
+
+Let's connect and create amazing things together! 🌟
+
+
