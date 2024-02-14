@@ -2,7 +2,7 @@
 
 My name is Kristina Mujakic.
 
-  Aspiring software developer with a passion for creativity and collaboration within the tech community.
+  Software developer with a passion for creativity and collaboration within the tech community.
 
 🚀 **A bit about me:**
 
