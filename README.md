@@ -4,20 +4,20 @@ My name is Kristina Mujakic.
 
 Software developer with a passion for creativity and collaboration within the tech community.
 
-🚀 **A bit about me:**
-I am ...
-
+### 🚀 **A bit about me:**
 - 🔝 currently working on improving my skills in web development.
 - 🌱 exploring **DevOps** and **Cobol**.
 - 👯 looking to collaborate on **open-source projects** and **innovative web applications**.
 - 💬 Ask me about **Python**, **JavaScript**, and **PostgreSQL**.
+- - :mailbox: Reach out: [kmujakic@gmail.com](mailto:kmujakic@gmail.com)
+  - [Let's connect on LinkedIn](https://www.linkedin.com/in/kristinamujakic/)
+ 
 
-📧 **Reach out:**
+### 🚀 Check out my projects on GitHub  
+[🔗 GitHub Repositories](https://github.com/kristinaMujakic?tab=repositories)
 
-- Email: [kmujakic@gmail.com](mailto:kmujakic@gmail.com)
-- [Let's connect on LinkedIn](https://www.linkedin.com/in/kristinamujakic/)
 
-## 🔨 Tools I Use
+### 🔨 Tools I Use
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
