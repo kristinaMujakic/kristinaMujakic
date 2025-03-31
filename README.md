@@ -13,10 +13,7 @@ Software developer with a passion for creativity and collaboration within the te
   - [Let's connect on LinkedIn](https://www.linkedin.com/in/kristinamujakic/)
  
 
-### 🚀 Check out my [GitHub Repositories](https://github.com/kristinaMujakic?tab=repositories)
-
-
-
+### 🖥️ Check out my [GitHub Repositories](https://github.com/kristinaMujakic?tab=repositories)
 
 ### 🔨 Tools I Use
 
