@@ -37,6 +37,7 @@ I am ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sql" width="30" height="30"/>
 <img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="rest api" width="30" height="30"/>
+
 </p>
 
 Let's connect and create amazing things together! 🌟
