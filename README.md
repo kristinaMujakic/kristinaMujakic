@@ -6,7 +6,7 @@ Software developer with a passion for creativity and collaboration within the te
 
 ### 🚀 **A bit about me:**
 - 🔝 currently working on improving my skills in web development, focusing on Python, JavaScript, and SQL.
-- 🌱 exploring **DevOps**, cloud technologies and **Cobol**.
+- 🌱 exploring cloud technologies 
 - 👯 looking to collaborate on **open-source projects** and **innovative web applications**.
 - 💬 Ask me about React, Node.js, PostgreSQL, REST APIs, and data structures & algorithms.
 - - :mailbox: Reach out: [kmujakic@gmail.com](mailto:kmujakic@gmail.com)
